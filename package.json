@@ -46,6 +46,10 @@
     ]
   },
   "devDependencies": {
-    "@types/react-router-dom": "^5.1.7"
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "@types/react-router-dom": "^5.1.7",
+    "commitlint-config-gitmoji": "^2.2.5",
+    "husky": "^6.0.0"
   }
 }
